@@ -960,3 +960,9 @@ fieldset {
 .fs-textarea::placeholder {
   color: var(--color-text-muted);
 }
+
+div#support {
+    max-width: 600px;
+    margin-left: 30%;
+    width: auto;
+}
